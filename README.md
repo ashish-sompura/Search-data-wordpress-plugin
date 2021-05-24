@@ -1,4 +1,4 @@
-# search-data
+# Search-Data Wordpress Plugin
 This is wordpress plugin. use in search data developed by me.
 
 use this plugin by following below steps.
